@@ -1,0 +1,7 @@
+{
+  "name": "x-loading#gh-pages",
+  "private": true,
+  "dependencies": {
+    "x-loading": "BlackhawkWebComponents/x-loading#master"
+  }
+}
